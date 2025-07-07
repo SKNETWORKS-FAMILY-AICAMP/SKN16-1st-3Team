@@ -104,7 +104,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
     <td align="center">
       <img src="./images/허원준.webp" width="300"/><br>
       <b>허원준</b><br>
-      MySQL
+      MySQL, Streamlit, Crawling
     </td>
   </tr>
   <tr>
