@@ -36,7 +36,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
  <img src="./images/ev_data.png" width="600"/><br>
 
 ---
-## 데이터베이스 설계문서 ERD
+## 📜 데이터베이스 설계문서 ERD
 <img src="./images/erd.png" width="600"/><br>
 
 ---
