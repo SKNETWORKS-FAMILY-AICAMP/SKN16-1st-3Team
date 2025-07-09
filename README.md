@@ -36,7 +36,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
  <img src="./images/ev_data.png" width="600"/><br>
 
 ---
-## erd
+## 데이터베이스 설계문서 ERD
 <img src="./images/erd.png" width="600"/><br>
 
 ---
@@ -82,71 +82,7 @@ _전기차 등록 대수와 충전소 수 간의 상관관계 분석_
 - 단순한 EV/충전소 수 비교를 넘어,  
   **지역별 전기차 수용 능력을 정량적으로 평가할 수 있는 지표 제공**
 - **공공데이터 기반의 교통/환경 정책 수립**에 참고 가능한 시각화 자료 생성
-- **Streamlit 대시보드 구현**을 통해 사용자가 직관적으로 정보를 탐색할 수 있도록 구성
-
----
-
-
-# 🫂 팀 소개
-<br>
-<table>
-  <tr>
-    <td align="center">
-      <img src="./images/현진.webp" width="300"/><br>
-      <b>강현진</b><br>
-      팀장
-    </td>
-    <td align="center">
-      <img src="./images/나은.webp" width="300"/><br>
-      <b>김나은</b><br>
-      Crawling
-    </td>
-    <td align="center">
-      <img src="./images/허원준.webp" width="300"/><br>
-      <b>허원준</b><br>
-      MySQL, Streamlit, Crawling
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/금희.webp" width="300"/><br>
-      <b>양금희</b><br>
-      db, streamlit, crawling
-    </td>
-    <td align="center">
-      <img src="./images/하경.webp" width="300"/><br>
-      <b>차하경</b><br>
-      MySQL, Streamlit, Python
-    </td>
-    <td></td> <!-- 빈칸 -->
-  </tr>
-</table>
-
-
-# 🛠 기술 스택
-<br>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><br>Streamlit
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/><br>MySQL
-    </td>
-  </tr>
-</table>
-
-
-# 💻 실제 화면
+- **Streamlit 대시보드 구현**을 통해 사용자가 직관적으로 정보를램 화면
 <br>
 
 ### 📍 1. 지역별 전기차 등록 현황 시각화
